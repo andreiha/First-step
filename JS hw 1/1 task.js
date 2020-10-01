@@ -9,5 +9,5 @@ function target (nums, targ) {
 };
 
 target (nums = [4, 2, 7, 11, 15], targ = 9);
-target (nums = [26, 3, 2, 4, 7, 1], target = 6);
-target (nums = [3, 3, 4, 5, 9], target = 6);
+target (nums = [26, 3, 2, 4, 7, 1], targ = 6);
+target (nums = [3, 3, 4, 5, 9], targ = 6);
